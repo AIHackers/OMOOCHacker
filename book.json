@@ -1,0 +1,13 @@
+{"title": "开智学院 「像黑客一样创作」课程 私人教程模板",
+    "version": "15.9.18,2020",
+    "description": "OMOOC.hacker tutorial for teching",
+    "author": "OMOOC-support <omooc-support@googlegroups.com>",
+
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "shortName": "Openmindclub"
+    }
+}
+
